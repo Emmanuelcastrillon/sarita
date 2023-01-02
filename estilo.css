@@ -8,14 +8,15 @@
 .uno,.dos{
     width: 60vw;
     height: 10vh;
-    font-size: 5rem;
-    margin: 10vh 0vw 0vh 20vw;
+    font-size: 6rem;
+    margin: 10vh 0vw 0vh 30vw;
     font-weight: 900;
     color:blue;
+    font-family: 'East Sea Dokdo', cursive;
 }
 .dos{
     color:red;
-    margin: 9vh 0vw 5vh 30vw;
+    margin: 9vh 0vw 5vh 35vw;
 }
 .parrafo1{
    font-size: 4rem;
@@ -61,11 +62,11 @@ img{
     }
     .dos{
         width: 40vw;
-        margin: 0vh 0vw 5vh 30vw;
+        margin: 15vh 0vw 5vh 30vw;
     }
     .parrafo1{
-        font-size: 3rem;
-        line-height: 7vh;
+        font-size: 2rem;
+        line-height: 7.5vh;
     }
     .tres{
         font-size: 4rem;

@@ -7,7 +7,7 @@
 }
 .uno,.dos{
     width: 60vw;
-    height: 10vh;
+    height: 30vh;
     font-size: 6rem;
     margin: 10vh 0vw 0vh 30vw;
     font-weight: 900;
@@ -61,16 +61,19 @@ img{
         text-align: center;
     }
     .dos{
-        width: 40vw;
-        margin: 9vh 0vw 0vh 30vw;
+        width: 60vw;
+        text-align: center;
+        margin: 1vh 0vw 0vh 20vw;
     }
     .parrafo1{
         font-size: 2rem;
         line-height: 7.5vh;
+        font-weight: 500;
     }
     .tres{
         font-size: 3rem;
         width: 100vw;
-        margin: 0vh 0vw 0vh 10vw;
+        margin: 0vh 0vw 0vh 1vw;
+        text-align: center;
     }
 }

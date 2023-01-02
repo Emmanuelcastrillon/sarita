@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    font-family:  'Passions Conflict', cursive;
+    width: 100%;
+    background-image: url(imagenesSara/fondo2.webp);
+    background-size: cover;
+}
+.uno,.dos{
+    width: 60vw;
+    height: 10vh;
+    font-size: 5rem;
+    margin: 10vh 0vw 0vh 20vw;
+    font-weight: 900;
+    color:blue;
+}
+.dos{
+    color:red;
+    margin: 9vh 0vw 5vh 30vw;
+}
+.parrafo1{
+   font-size: 4rem;
+    width: 30vw;
+    height: 0vh;
+    margin: 15vh 0vw 0vh 58vw;
+    font-weight: 700;
+    text-align:center;
+    line-height: 15vh;
+    position: relative;
+    z-index: 0;
+}
+img{
+    width: 45vw;
+    height: 90vh;
+    border-radius: 50%;
+    margin: 0vh 0vw 20vh 50vw;
+}
+.años{
+    border-radius: 50%;
+    width: 45vw;
+    height: 90vh;
+    margin: -120vh 0vw 20vh 3vw;
+    
+}
+.tres{
+    color: blue;
+    width: 60vw;
+    height: 12vh;
+    margin: 0vh 0vw 0vh 27vw;
+    font-size: 7rem;
+    font-family: 'East Sea Dokdo', cursive;
+}
+@media(max-width:480px){
+    *{
+        margin: 0;
+    }
+    .uno,.dos{
+        font-size: 3rem; 
+        width: 100vw;
+        margin: 5vh 0vw 0vh 0vw;
+        text-align: center;
+    }
+    .dos{
+        width: 40vw;
+        margin: 0vh 0vw 5vh 30vw;
+    }
+    .parrafo1{
+        font-size: 3rem;
+        line-height: 7vh;
+    }
+    .tres{
+        font-size: 4rem;
+        width: 80vw;
+        margin: 0vh 0vw 0vh 16vw;
+    }
+}
